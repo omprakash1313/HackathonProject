@@ -4,8 +4,8 @@ Technology Used
 MERN Stack. 
 Pug extension.
 
-Step 1. clone the repo and open on code editor.
-step2. open the folder in code editor 
-step3. install the required modules express
-ste6. in terminal type node start. 
-step7. here good to go. open any browser and opne local host with port number 3003.
+# Step 1. clone the repo and open on code editor.
+# step2. open the folder in code editor 
+# step3. install the required modules express
+# ste6. in terminal type node start. 
+# step7. here good to go. open any browser and opne local host with port number 3003.
